@@ -19,3 +19,12 @@ Core Java: Concurrency, streams, collections
 Enterprise: Spring Boot REST + JPA, SQL design
 Banking: Order matching, real-time PnL, risk gates
 Production: CI/CD, testing, OpenAPI docs
+
+============================================
+Files:
+✅ pom.xml
+✅ .gitignore  
+✅ .github/workflows/maven.yml
+✅ src/main/java/com/oms/demo/OmsApplication.java
+✅ src/main/java/com/oms/demo/controller/OrderController.java  
+✅ src/test/java/com/oms/demo/OrderTest.java
